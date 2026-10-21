@@ -1,0 +1,7 @@
+Commit: e533673
+Qué cambió: Se agregaron los ejercicios anteriores de Lyfter.
+Por qué: Para organizar los ejercicios y entregarlos para revisión.
+
+Commit: c519006
+Qué cambió: Se creó el repositorio con el README inicial.
+Por qué: Para tener un repositorio donde guardar los ejercicios del curso.
