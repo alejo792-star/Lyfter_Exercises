@@ -1,0 +1,63 @@
+Cree un algoritmo que le pida 2 números al usuario, 
+los guarde en dos variables distintas (primero y segundo) y 
+los ordene de menor a mayor en dichas variables.
+
+1.star
+2.declare num1, num2
+3.output "ingrese num1"
+4.input num1
+5.output"ingrese num2"
+6.input num2
+7.  if (num1>num2) then
+        output "A->",num2, "b->",num1
+    else
+         if (num2>num1) then
+            output "A->"num1,"b->",num2
+         else
+            output "Los numeros sos iguales"
+         end if
+    end if
+8.end
+---------------------------------------------------------------------
+Cree un algoritmo que le pida al usuario una velocidad en km/h y la convierta a m/s. 
+Recuerda que 1 km == 1000m y 1 hora == 60 minutos * 60 segundos
+
+1.star
+2.declare distance_km,distance_m
+3.output "ingrese velociada km/h"
+4.input distance_km
+5.distance_km = (distance_km * 1000)/3600
+6.output distance_m,"m/s"
+7.end
+
+----------------------------------------------------------------------------
+Cree un algoritmo que le pregunte al usuario por el sexo de 6 personas, ingresando 1 si 
+es mujer o 2 si es hombre, y muestre al final el porcentaje de mujeres y hombres.
+
+1.star
+2.declare counter_women = 0, aws
+3.declare counter_men = 0,porcentage_men,porcentage_women
+4.declare counter = 0
+5.  while (counter<6) do
+        output "1. mujer o 2.hombre"
+        input aws
+        if (aws == 1) then 
+            counter_women = counter_women + 1
+            counter = counter + 1
+        else
+            if (aws == 2) then
+                counter_men = counter_men +1
+                counter = counter + 1
+            else
+                output"Opcion invalida"
+            end if
+        end if 
+6.  end while
+7.
+    porcentage_men = (counter_men / 6) * 100
+    porcentage_women = (counter_women / 6 ) * 100
+8. output porcentage_women,"mujeres y " porcentage_men, "men"
+9.end
+
+
+    

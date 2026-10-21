@@ -1,0 +1,100 @@
+Reunion sorpresa
+INICIO
+1. invitar gente 
+    1.1 Crear grupo WhatsApp
+    1.2 Invitar al circulo social 
+    1.3 Indicar que es sorpresa
+    1.4 Esperar confimaciones.
+    1.5 hacer lista de invitados 
+        1.5.1 si invitado confirma 
+            1.5.1.1 agregar a lista 
+        1.5.2 si no acepta 
+            1.5.2 Sacar del grupo.
+2.Si el cumpleañero esta en casa 
+    2.1 Buscar otro lugar para la fiesta
+        2.1.1 pregfuntar a amigos Y familia Y personas cercanas 
+        2.1.2 Si amigos o familia confirma diponibilidad 
+        2.1.3 Escoger lugar.
+3.realizar decoracion.
+    3.1 llegar al lgar de la fiesta 
+    3.2 organizar 
+        3.2.1. inflar globos.
+        3.2.2. poner mantas 
+        3.2.3 poner comida 
+4. validar lista de invitados 
+    4.1 si el cumpleañero no ha llegado
+        4.1.1 si el invitado ya llego 
+            4.1.1.1 check
+        4.1.2 Si no ha llegado 
+            4.1.2.1 llamar al invitado para confirmar 
+            4.1.2.2 repetir hasta que lleguen todos los invitados.
+        4.1.3 los invitados ya presentes 
+            4.1.3.1 pueden comer o jugar o tomar o platicar.
+    4.2 si el cumpleañero ya llego.
+        4.2.1 hacer fiesta.
+fin
+
+-------------------------------------------------------------------------------------
+
+preparacion examen 
+inicio 
+1.verificacion de conocimientos 
+    1.1 realizar exaen diafnostico.
+    1.2 si el estudiante entiende todo 
+        1.2.1 Esta listo 
+    1.3 si no entiende todo 
+        1.3.1 Realizar proceso de estidio 
+            1.3.1.1 hacer resumenes.
+            1.3.1.2 hacer fichas de estudio.
+            1.3.1.2 escuchar o ver videos
+        1.3.2 Realizar practicas 
+            1.3.1 hacer juegos.
+            1.3.1 hacer simulacros.
+    1.4 repetir hasta cuando el estudiante endirnda todo.
+    fin
+
+    -----------------------------------------------------------------------------------
+    Viaje.
+1. Escoger lugar de destino.
+    1.1 si el viaje es con familia 
+        1.1 escoger el destino entre todos.
+    1.2 sino el vieje es solo.
+        1.2.1 investigar lugares 
+    1.3 escoger lugar de destino.
+2. escoger hoteles y vuelos .
+    2.1 prender pc o phone o tablet 
+    2.1ingresar al navegador de preferencia 
+        2.1 buscar hoteles segun la oacion.
+            2.1.2 pagar hoteles
+        2.1 buscar vuelos hacia el destino 
+                2.1.1 buscar mejor opcion Y mejor precio 
+                    2.1.1.1 pagar vuelos.
+3. realixzar un intinerario.
+    3.1 buscar actividades por hacer 
+    3.2  lugares por conocer 
+    3.3 buscar mejores vistas.
+4. alistar maletas. 
+    4.1 si el viaje es nacional 
+        4.1.1 alistar
+            4.1.1.1 alistar dos camisas 
+            4.1.1.2 alistar dos pantalones.
+            4.1.1.3 alistar 3 boxer
+            4.1.1.4 dos pares de zapatos 
+    4.2 Si no 
+        4.2.1 Alistar el doble de las cantidades.
+5. Empacar maleta 
+    5.1 si tienen maleta 
+         5.1.1 empacar todo.
+    5.2 si no tiene maleta 
+        5.2.1  comprar maleta 
+            5.2.1.1 empacar maleta.
+6. si todas las condiciones se cumples
+    6.1 realizar viaje 
+7 si no 
+    7.1 repetir el proceso hasta que todo este listo.
+fin
+
+
+
+
+        

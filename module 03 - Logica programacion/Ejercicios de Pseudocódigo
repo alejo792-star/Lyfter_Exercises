@@ -1,0 +1,62 @@
+Cree un pseudocódigo que le pida un precio de producto al usuario, calcule su descuento y muestre el precio final tomando en cuenta que:
+Si el precio es menor a 100, el descuento es del 2%.
+Si el precio es mayor o igual a 100, el descuento es del 10%.
+
+1.inicio
+2. definir valor_producto
+3. definir Valor_descuento
+4. definir Total_pagar
+5. mostrar "Ingrese el valor del producto a comprar"
+6. pedir valor_producto
+7. si valor_producto >= 100 entonces:
+        Valor_descuento = valor_producto * 0.1
+    sino
+        valor_descuento = valor_producto * 0.02
+    finsi
+8. Total_pagar = valor_producto - Valor_descuento
+9. mostrar "El valor a pagar por el producto es: "
+10. mostrar Total_pagar
+11. final
+
+--------------------------------------------------------------------------
+
+Cree un pseudocódigo que le pida un tiempo en segundos al usuario y
+calcule si es menor o mayor a 10 minutos. Si es menor, muestre cuantos
+segundos faltarían para llegar a 10 minutos. Si es mayor, muestre “Mayor”. Si es
+exactamente igual, muestre “Igual”.
+
+1. inicio
+2. definir tiempo_segundos
+3. definir minutos_segundos = 10 * 60
+4. definir segundos_faltantes
+5. mostrar "ingrese tiempo en segundos"
+6. pedir tiempo_segundos
+7. si tiempo_segundos < minutos_segundos entonces
+        segundos_faltantes = minutos_segundos - tiempo_segundos
+        mostrar "la cantidad de sengundos faltantes es:"
+        mostrar segundos_faltantes
+    sino si tiempo_segundos == minutos_segundos entonces:
+        mostrar "igual"
+    sino 
+        mostrar "mayor"
+    finsi
+8. fin  
+---------------------------------------------------------------------------
+
+Cree un algoritmo que le pida un numero al usuario, y realice una suma de cada 
+numero del 1 hasta ese número ingresado. Luego muestre el resultado de la suma.
+
+1. inicio
+2. definir numero_usuario
+3. definir suma = 0
+4. definir contador = 1 
+5. mostrar "Ingrese un numero."
+6. pedir numero_usuario
+7. mientras contador <= numero_usuario hacer:
+        suma = suma + contador    
+        contador = contador + 1 
+        
+    finmientras
+7. mostrar "el valor de la suma es"
+8. mostrar suma
+9. fin
