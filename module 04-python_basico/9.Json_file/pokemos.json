@@ -1,0 +1,353 @@
+[
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "level": 54,
+        "weight_kg": 6.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Thunder Shock",
+            "Quick Attack",
+            "Thunderbolt",
+            "Volt Tackle"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "sp_attack": 50,
+            "sp_defense": 50,
+            "speed": 90
+        }
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "level": 8,
+        "weight_kg": 8.5,
+        "is_shiny": true,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Scratch",
+            "Tackle",
+            "Smokescreen"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_attack": 60,
+            "sp_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "name": "Squirtle",
+        "type": "Water",
+        "level": 10,
+        "weight_kg": 9.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Water Gun",
+            "Tackle",
+            "Tail Whip",
+            "Bubble"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "sp_attack": 50,
+            "sp_defense": 64,
+            "speed": 43
+        }
+    },
+    {
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "level": 12,
+        "weight_kg": 6.9,
+        "is_shiny": false,
+        "held_item": "Miracle Seed",
+        "skills": [
+            "Tackle",
+            "Growl",
+            "Vine Whip",
+            "Poison Powder"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "sp_attack": 65,
+            "sp_defense": 65,
+            "speed": 45
+        }
+    },
+    {
+        "name": "Eevee",
+        "type": "Normal",
+        "level": 15,
+        "weight_kg": 6.5,
+        "is_shiny": true,
+        "held_item": "Soothe Bell",
+        "skills": [
+            "Quick Attack",
+            "Tackle",
+            "Sand Attack",
+            "Bite"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 50,
+            "sp_attack": 45,
+            "sp_defense": 65,
+            "speed": 55
+        }
+    },
+    {
+        "name": "Psyduck",
+        "type": "Water",
+        "level": 9,
+        "weight_kg": 19.6,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Water Gun",
+            "Scratch",
+            "Confusion",
+            "Tail Whip"
+        ],
+        "stats": {
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "sp_attack": 65,
+            "sp_defense": 50,
+            "speed": 55
+        }
+    },
+    {
+        "name": "Vulpix",
+        "type": "Fire",
+        "level": 20,
+        "weight_kg": 9.9,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Ember",
+            "Quick Attack",
+            "Fire Spin",
+            "Confuse Ray"
+        ],
+        "stats": {
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "sp_attack": 50,
+            "sp_defense": 65,
+            "speed": 65
+        }
+    },
+    {
+        "name": "Growlithe",
+        "type": "Fire",
+        "level": 30,
+        "weight_kg": 19.0,
+        "is_shiny": false,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Bite",
+            "Flame Wheel",
+            "Take Down"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 70,
+            "defense": 45,
+            "sp_attack": 70,
+            "sp_defense": 50,
+            "speed": 60
+        }
+    },
+    {
+        "name": "Squirtle",
+        "type": "Water",
+        "level": 15,
+        "weight_kg": 9.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Tackle",
+            "Water Gun",
+            "Withdraw",
+            "Rapid Spin"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "sp_attack": 50,
+            "sp_defense": 64,
+            "speed": 43
+        }
+    },
+    {
+        "name": "Staryu",
+        "type": "Water",
+        "level": 25,
+        "weight_kg": 34.5,
+        "is_shiny": true,
+        "held_item": "Mystic Water",
+        "skills": [
+            "Water Gun",
+            "Rapid Spin",
+            "Swift",
+            "Bubble Beam"
+        ],
+        "stats": {
+            "hp": 30,
+            "attack": 45,
+            "defense": 55,
+            "sp_attack": 70,
+            "sp_defense": 55,
+            "speed": 85
+        }
+    },
+    {
+        "name": "Jolteon",
+        "type": "Electric",
+        "level": 36,
+        "weight_kg": 24.5,
+        "is_shiny": false,
+        "held_item": "Magnet",
+        "skills": [
+            "Thunder Shock",
+            "Quick Attack",
+            "Thunderbolt",
+            "Pin Missile"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 60,
+            "sp_attack": 110,
+            "sp_defense": 95,
+            "speed": 130
+        }
+    },
+    {
+        "name": "Magnemite",
+        "type": "Electric",
+        "level": 22,
+        "weight_kg": 6.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Thunder Shock",
+            "Supersonic",
+            "Sonic Boom",
+            "Spark"
+        ],
+        "stats": {
+            "hp": 25,
+            "attack": 35,
+            "defense": 70,
+            "sp_attack": 95,
+            "sp_defense": 55,
+            "speed": 45
+        }
+    },
+    {
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "level": 18,
+        "weight_kg": 6.9,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Tackle",
+            "Vine Whip",
+            "Leech Seed",
+            "Razor Leaf"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "sp_attack": 65,
+            "sp_defense": 65,
+            "speed": 45
+        }
+    },
+    {
+        "name": "Oddish",
+        "type": "Grass",
+        "level": 12,
+        "weight_kg": 5.4,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Absorb",
+            "Acid",
+            "Sweet Scent",
+            "Petal Dance"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "sp_attack": 75,
+            "sp_defense": 65,
+            "speed": 30
+        }
+    },
+    {
+        "name": "Abra",
+        "type": "Psychic",
+        "level": 16,
+        "weight_kg": 19.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Teleport",
+            "Confusion",
+            "Psybeam"
+        ],
+        "stats": {
+            "hp": 25,
+            "attack": 20,
+            "defense": 15,
+            "sp_attack": 105,
+            "sp_defense": 55,
+            "speed": 90
+        }
+    },
+    {
+        "name": "Kadabra",
+        "type": "Psychic",
+        "level": 32,
+        "weight_kg": 56.5,
+        "is_shiny": false,
+        "held_item": "Twisted Spoon",
+        "skills": [
+            "Confusion",
+            "Psybeam",
+            "Recover",
+            "Psychic"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "sp_attack": 120,
+            "sp_defense": 70,
+            "speed": 105
+        }
+    }
+]

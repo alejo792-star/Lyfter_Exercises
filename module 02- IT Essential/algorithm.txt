@@ -1,0 +1,33 @@
+Reproducir un video en youtube.
+1.Buscar computadora.
+2.Abrir computadora.
+3.Prender mi compuradora 
+4.ingresar contraseña
+5.validar conexion a internet.
+6. ingresar a un navegador.
+7. escribir "youtube"
+8. abrir pagina.
+10. buscar el video.
+11. reproducir video.
+12.fin
+
+Rurina diaria
+1.despertar.
+2.si mi perra esta llorando
+2.1 Sacare mi perra.
+3.preparar comidas del dia
+4.si trabajo 
+4.1 ir a trabajar 
+5.ir al gym
+5.1 realizar 8 ejercicios
+REALIZAR ejercicios
+5.2 si No dule 
+5.3 realizar 4 Repeticiones 
+5.4 repetir esto por cada ejercicio 
+5.6 estirar 
+6.regresar a casa
+7.preparar mas comida
+8.sacar de nuevo mi perra
+9. Dormir 
+10.reperir si la condicion 1 se cumple. :)
+
