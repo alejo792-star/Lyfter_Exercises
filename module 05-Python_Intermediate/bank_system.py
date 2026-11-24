@@ -33,10 +33,13 @@ class Banck:
             print(f"New Balance: {self.balance}")
         else:
             print(f"Insufficient funds: {self.balance}")
-        
-client_1 = Banck("Jefferson", 100)
-client_2 = Banck("Alejandro", 200)
+def main():
+    client_1 = Banck("Jefferson", 100)
+    client_2 = Banck("Alejandro", 200)
 
-client_2.transfer(client_1,50)
-client_1.show_balance()
-client_2.show_balance()
+    client_2.transfer(client_1,50)
+    client_1.show_balance()
+    client_2.show_balance()
+if __name__ == "__main__":
+    main()
+    

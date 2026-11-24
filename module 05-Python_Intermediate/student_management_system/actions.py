@@ -83,11 +83,6 @@ def show_all_students(data):
             )
             print("="*30)
 
-def calculate_average(student):
-    grades =[student.spanish ,student.english,student.social_studies,student.science]
-    average = sum(grades)/len(grades)
-    return average
-
 def show_top_three(student_list):
     if not student_list:
         print("No students registered yet.")
@@ -95,7 +90,7 @@ def show_top_three(student_list):
     else:
         ordered = sorted(
         student_list,
-        key=calculate_average,
+        key=lambda student: student.calculate_average(),
         reverse= True
         )
         top_three = ordered[:3]
@@ -105,8 +100,8 @@ def show_top_three(student_list):
         for index,student in enumerate(top_three,start=1):
             print(
                 f"{'-'*30}\n"
-                f"{'Full Name:':<16} {student["full_name"].title()}\n"
-                f"{"Average:":<16} {calculate_average(student):.2f}\n"
+                f"{'Full Name:':<16} {student.full_name.title()}\n"
+                f"{"Average:":<16} {student.calculate_average():.2f}\n"
                 f"{'Top #🏆:':<16} {index}⭐️\n"
                 f"{'Congratulation 👌🏻'}\n"
             )
@@ -118,7 +113,7 @@ def show_overall_average(student_list):
     else:
         students_average = []
         for student in student_list:
-            average = calculate_average(student)
+            average = student.calculate_average()
             students_average.append(average)
         overall_average = sum(students_average)/len(students_average)
         print("="*30)

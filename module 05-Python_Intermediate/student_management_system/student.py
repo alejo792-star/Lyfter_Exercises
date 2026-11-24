@@ -8,4 +8,21 @@ class Student:
         self.english = english
         self.social_studies = social_studies
         self.science = science
+
+    def calculate_average(self):
+        grades =[self.spanish ,self.english,self.social_studies,self.science]
+        average = sum(grades)/len(grades)
+        return average
+
+    def to_dict(self):
+        return{
+        "full_name": self.full_name,
+        "section" : self.section,
+        "spanish":self.spanish,
+        "english":self.english,
+        "social_studies": self.social_studies,
+        "science":self.science,
+        }
+
+
         

@@ -17,15 +17,7 @@ def export_students(student_list):
         writer = csv.DictWriter(file, fieldnames= fieldnames)
         writer.writeheader()
         for student in student_list:
-            row = {
-                "full_name": student.full_name,
-                "section" : student.section,
-                "spanish" :student.spanish,
-                "english": student.english,
-                "social_studies":student.social_studies,
-                "science" : student.science
-
-            }
+            row = student.to_dict()
             writer.writerow(row)
     print("Students exported successfully!")
 
